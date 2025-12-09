@@ -1,0 +1,1014 @@
+clicks on similar products,similar products purchased ,Average rating to similar products,Gender,Rating ,Product price,Holiday,Season,Geographical locations,customer review,Brand
+12,4,4.2,male,4.5,200,No,winter,plains,Positive,Puma
+8,2,3.8,female,3.2,300,Yes,monsoon,mountains,Negtive,Lee
+25,10,4.5,female,4.8,1000,No,spring,plains,Positive,Head Hunters
+6,1,2.1,female,2.5,300,No,summer,coastal,Positive,Johnson & Johnson
+18,5,4.7,male,4.3,700,Yes,winter,plains,Positive,Wakefit
+0,0,0,male,0,1000,No,winter,mountains,Negtive,Dabur Chyawanprash
+38,15,4.9,female,4.9,700,No,summer,plains,Positive,Manyavar Mohey
+7,3,3.4,male,3.7,900,No,winter,coastal,Positive,Pepperfry
+4,0,1.5,male,1.8,400,No,monsoon,mountains,Negtive,Lee Cooper
+10,4,3.9,female,4.1,200,Yes,spring,plains,Positive,Libram
+42,18,4.6,male,4.7,600,No,summer,plains,Positive,Flying Machine
+20,8,4.3,female,4.4,1000,Yes,summer,coastal,Positive,Sleepycat
+5,2,2.8,male,3,500,Yes,summer,plains,Negtive,Streax
+31,12,4.8,female,4.6,600,No,winter,plains,Positive,Lakme Ayurveda
+2,1,2,male,2.2,200,Yes,summer,mountains,Negtive,Forest Essentials
+17,7,4.1,female,4.2,100,Yes,winter,plains,Positive,Dove Hair
+14,6,3.6,male,3.4,900,No,summer,plains,Positive,Pepe Jeans London
+9,3,3.3,female,3.5,800,No,winter,plains,Positive,The Moms Co.
+23,9,4,male,4.2,600,Yes,winter,mountains,Positive,Himalaya Liv.52
+3,1,1.7,male,2,700,No,monsoon,mountains,Negtive,Wildcraft
+28,11,4.5,female,4.5,10000,Yes,winter,mountains,Positive,Godrej Interio
+16,6,3.7,male,3.8,300,No,monsoon,mountains,Positive,Patanjali Ayurved (Health Care)
+11,5,4.2,female,4.3,200,Yes,spring,plains,Positive,Lijoba
+36,14,4.7,male,4.6,900,No,summer,plains,Positive,Moov
+19,8,4.4,female,4.5,800,No,summer,coastal,Positive,Kama Ayurveda
+22,9,4.6,female,4.7,800,No,winter,plains,Positive,Urban Ladder
+13,5,3.5,male,3.6,400,Yes,winter,plains,Positive,Allen Solly Woman
+8,3,2.9,female,3,300,No,summer,mountains,Positive,Lee Cooper
+27,11,4.4,male,4.5,1000,Yes,winter,coastal,Positive,Sleepycat
+6,2,2.5,male,2.7,500,No,summer,mountains,Negtive,Moov
+39,16,4.8,female,4.8,800,No,summer,plains,Positive,Wildcraft
+4,1,1.8,female,2,400,No,monsoon,coastal,Negtive,Johnson & Johnson
+19,7,4.2,male,4.3,200,No,winter,plains,Positive,Puma
+9,4,3.1,female,3.3,900,Yes,winter,coastal,Positive,Pepperfry
+32,13,4.7,male,4.8,700,No,summer,plains,Positive,Manyavar Mohey
+14,6,3.6,female,3.8,300,No,winter,plains,Positive,Max
+7,2,2.3,male,2.5,700,Yes,summer,mountains,Negtive,Wakefit
+18,8,4,male,4.2,100,No,winter,plains,Positive,Lakme Ayurveda
+23,10,4.5,female,4.6,100,Yes,summer,coastal,Positive,Streax
+11,3,2.8,male,3,400,No,monsoon,mountains,Positive,Flying Machine
+26,11,4.2,female,4.4,300,No,winter,plains,Positive,Lee
+17,7,3.9,male,4,900,Yes,winter,plains,Positive,Head & Shoulders
+12,5,3.2,female,3.3,600,Yes,winter,plains,Positive,Fastrack
+5,1,1.9,male,2,400,No,monsoon,mountains,Negtive,Sugar Cosmetics
+31,12,4.3,female,4.5,10000,Yes,winter,mountains,Positive,Manyavar Mohey
+10,4,3,male,3.2,100,No,summer,coastal,Positive,Kama Ayurveda
+20,9,4.3,female,4.5,200,No,winter,plains,Positive,Johnson & Johnson
+16,6,3.7,male,3.8,800,Yes,summer,mountains,Positive,Pepperfry
+29,12,4.6,female,4.7,700,No,winter,plains,Positive,Parachute
+24,10,4.4,male,4.5,300,No,summer,mountains,Positive,Lee Cooper
+8,3,3.2,female,3.4,900,Yes,winter,plains,Positive,Wildcraft
+21,9,4.1,male,4.3,200,No,summer,coastal,Positive,Sugar Cosmetics
+5,2,2.6,male,2.8,500,No,winter,plains,Negtive,Lakme Ayurveda
+17,7,3.9,female,4,600,Yes,summer,plains,Positive,Max
+11,4,3.1,male,3.2,100,No,monsoon,plains,Positive,Lijoba
+28,13,4.5,female,4.6,1000,No,winter,plains,Positive,Godrej Interio
+13,5,3.4,male,3.5,900,No,summer,coastal,Positive,Sleepycat
+9,4,2.9,female,3,500,Yes,winter,plains,Negtive,Dettol
+36,15,4.7,male,4.8,800,No,summer,plains,Positive,Moov
+7,2,2.5,female,2.7,200,Yes,summer,coastal,Negtive,The Moms Co.
+20,8,4.3,male,4.5,300,No,winter,plains,Positive,Max
+14,6,3.5,female,3.7,800,Yes,winter,plains,Positive,Lakme Ayurveda
+33,14,4.8,male,4.9,700,No,summer,mountains,Positive,Pepe Jeans London
+6,2,2.7,female,2.8,700,Yes,summer,coastal,Negtive,Wakefit
+19,8,4.2,male,4.3,1000,No,winter,plains,Positive,Manyavar Mohey
+10,3,2.8,female,3,400,No,summer,plains,Positive,Johnson & Johnson
+25,11,4.4,male,4.5,900,No,summer,mountains,Positive,Wildcraft
+15,6,3.6,female,3.8,500,Yes,monsoon,plains,Negtive,Lee
+29,12,4.6,male,4.7,800,No,winter,mountains,Positive,Pepperfry
+22,9,4.5,female,4.6,300,No,summer,plains,Positive,Head Hunters
+12,5,3,male,3.1,1000,Yes,winter,plains,Positive,Urban Ladder
+16,7,3.8,female,4,200,No,winter,plains,Positive,Lee
+31,14,4.9,male,5,700,No,summer,plains,Positive,Manyavar Mohey
+4,1,1.7,female,1.8,500,Yes,summer,plains,Negtive,Dettol
+26,11,4.3,male,4.4,300,No,winter,plains,Positive,Libram
+16,7,3.9,female,4,900,No,winter,plains,Positive,Flying Machine
+8,3,3.3,male,3.4,200,No,summer,coastal,Positive,Max
+27,12,4.7,female,4.8,700,No,winter,plains,Positive,Patanjali Ayurved (Health Care)
+13,6,3.6,male,3.8,400,Yes,winter,plains,Positive,Streax
+7,2,2.4,female,2.6,500,No,summer,mountains,Negtive,Wildcraft
+20,9,4.4,male,4.5,800,Yes,winter,plains,Positive,Moov
+32,15,4.8,female,4.9,900,No,winter,mountains,Positive,Forest Essentials
+11,4,3.1,male,3.2,400,No,summer,plains,Positive,Puma
+24,11,4.3,female,4.5,300,No,summer,plains,Positive,Wildcraft
+10,3,2.7,male,2.9,100,No,monsoon,plains,Positive,Lee
+35,16,4.9,female,5,700,No,winter,mountains,Positive,Lee Cooper
+6,2,2.8,female,3,500,Yes,summer,plains,Negtive,Manyavar Mohey
+19,8,4.3,male,4.5,900,No,winter,plains,Positive,Pepe Jeans London
+9,4,3,female,3.1,1000,Yes,winter,plains,Positive,Head Hunters
+28,13,4.6,male,4.7,800,No,summer,coastal,Positive,Sleepycat
+14,7,3.7,female,3.8,200,No,summer,plains,Positive,Johnson & Johnson
+23,10,4.5,male,4.6,300,No,winter,plains,Positive,Wakefit
+12,5,3.2,female,3.4,400,No,summer,plains,Positive,Manyavar Mohey
+25,11,4.4,male,4.5,500,Yes,winter,plains,Positive,Amazonbasics
+15,6,3.5,female,3.7,600,Yes,winter,plains,Positive,Lakme Ayurveda
+30,14,4.7,male,4.8,700,No,summer,plains,Positive,Moov
+5,2,2.5,female,2.6,500,Yes,winter,plains,Negtive,Head & Shoulders
+21,9,4.2,male,4.4,900,No,winter,mountains,Positive,Flying Machine
+17,7,3.8,female,4,200,No,summer,coastal,Positive,Kama Ayurveda
+36,16,4.8,male,4.9,700,No,winter,plains,Positive,U.S. Polo Assn. Women
+9,4,3.3,female,3.4,200,No,summer,plains,Positive,Dettol
+26,12,4.5,male,4.7,500,Yes,winter,mountains,Positive,Lee
+14,7,3.8,female,4,600,Yes,winter,plains,Positive,Sleepycat
+7,2,2.7,female,2.9,500,Yes,summer,plains,Negtive,Flying Machine
+31,14,4.7,male,4.8,700,No,winter,plains,Positive,Pepe Jeans London
+16,7,3.7,female,3.9,200,No,summer,coastal,Positive,Lee Cooper
+8,3,3.1,male,3.2,300,No,summer,plains,Positive,Lakme Ayurveda
+23,10,4.3,female,4.4,900,Yes,winter,mountains,Positive,Wildcraft
+11,5,3.2,male,3.4,100,No,summer,plains,Positive,Manyavar Mohey
+28,13,4.8,female,4.9,700,No,winter,plains,Positive,Pepperfry
+17,8,3.9,male,4.1,200,No,summer,coastal,Positive,Kama Ayurveda
+12,6,3.4,female,3.6,400,Yes,summer,plains,Positive,Lee
+6,2,2.6,male,2.8,500,Yes,summer,plains,Negtive,Wildcraft
+21,10,4.4,female,4.5,600,No,winter,plains,Positive,Manyavar Mohey
+10,4,3,male,3.1,100,No,monsoon,plains,Negtive,Lee
+35,16,4.8,female,4.9,800,Yes,winter,plains,Positive,Johnson & Johnson
+20,9,4.2,male,4.3,300,No,winter,plains,Positive,Streax
+13,6,3.5,female,3.7,500,Yes,winter,plains,Positive,Pepe Jeans London
+29,14,4.7,male,4.8,900,No,winter,mountains,Positive,Manyavar Mohey
+15,7,3.8,female,4,200,No,summer,plains,Positive,Max
+30,15,4.9,male,5,700,No,winter,plains,Positive,Wildcraft
+24,11,4.6,female,4.7,800,No,summer,plains,Positive,Sleepycat
+18,8,4,male,4.1,200,No,winter,plains,Positive,Puma
+32,15,4.8,female,4.9,700,No,winter,mountains,Positive,Forest Essentials
+5,2,2.5,male,2.7,500,Yes,winter,plains,Negtive,Head & Shoulders
+18,8,4.1,female,4.2,900,No,winter,plains,Positive,Flying Machine
+14,7,3.8,male,4,200,No,summer,coastal,Positive,Pepperfry
+7,3,3,female,3.1,300,No,summer,plains,Positive,Patanjali Ayurved (Health Care)
+23,11,4.3,male,4.5,400,No,summer,plains,Positive,Manyavar Mohey
+12,6,3.3,female,3.5,500,Yes,winter,mountains,Positive,Wildcraft
+27,13,4.6,male,4.7,800,No,summer,plains,Positive,Moov
+10,5,3.1,female,3.2,600,Yes,summer,coastal,Negtive,Lakme Ayurveda
+36,17,4.8,male,4.9,700,No,winter,plains,Positive,Lee Cooper
+16,8,3.8,female,4,200,No,summer,plains,Positive,Johnson & Johnson
+8,4,3.2,male,3.4,400,No,winter,plains,Positive,Fastrack
+31,15,4.7,female,4.8,700,No,winter,plains,Positive,Wildcraft
+20,10,4.3,male,4.4,300,No,summer,plains,Positive,Lee
+11,5,3.2,female,3.4,500,Yes,winter,plains,Positive,Patanjali Ayurved (Health Care)
+28,14,4.7,male,4.8,800,No,winter,mountains,Positive,Pepe Jeans London
+15,8,3.9,female,4.1,200,No,summer,plains,Positive,Manyavar Mohey
+9,4,2.9,male,3.1,600,Yes,summer,mountains,Negtive,Pepperfry
+24,12,4.5,female,4.6,300,No,winter,plains,Positive,Flying Machine
+13,7,3.7,male,3.8,200,No,summer,coastal,Positive,Sugar Cosmetics
+6,3,2.9,female,3.1,500,Yes,winter,plains,Negtive,Wildcraft
+21,11,4.4,male,4.6,400,No,summer,plains,Positive,Urban Ladder
+32,16,4.8,female,4.9,700,No,winter,plains,Positive,Lakme Ayurveda
+17,9,4.1,male,4.2,200,No,summer,coastal,Positive,Head Hunters
+25,13,4.6,female,4.7,800,No,winter,plains,Positive,Manyavar Mohey
+19,9,4.2,male,4.3,300,No,summer,plains,Positive,Pepe Jeans London
+34,17,4.9,female,5,900,Yes,winter,mountains,Positive,Wakefit
+22,11,4.5,male,4.7,400,No,winter,plains,Positive,Wildcraft
+10,5,3.1,male,3.2,600,Yes,summer,coastal,Negtive,Lakme Ayurveda
+27,13,4.6,male,4.8,800,No,summer,plains,Positive,Pepperfry
+7,3,2.9,female,3.1,500,Yes,winter,plains,Negtive,Forest Essentials
+23,11,4.4,male,4.6,400,No,summer,plains,Positive,Manyavar Mohey
+9,4,2.9,male,3.1,600,Yes,winter,plains,Negtive,Wildcraft
+5,2,2.3,male,2.5,100,No,summer,plains,Negtive,Johnson & Johnson
+42,21,4.9,female,5,900,No,winter,mountains,Positive,Wakefit
+14,7,3.5,male,3.7,100,Yes,monsoon,plains,Positive,Head & Shoulders
+7,4,3.1,female,3.3,1000,Yes,summer,plains,Negtive,Lakme Ayurveda
+20,10,4.4,male,4.6,400,No,summer,plains,Positive,Manyavar Mohey
+30,15,4.7,female,4.9,700,No,winter,plains,Positive,Pepperfry
+16,9,4.2,male,4.4,600,Yes,summer,coastal,Positive,Lakme Ayurveda
+21,12,4.8,female,5,800,Yes,winter,mountains,Positive,Wildcraft
+11,6,3.6,male,3.8,500,Yes,summer,coastal,Positive,Flying Machine
+33,17,4.9,female,5,700,No,winter,plains,Positive,Wildcraft
+25,12,4.4,male,4.6,400,No,summer,plains,Positive,Manyavar Mohey
+18,9,4.3,female,4.5,800,Yes,summer,coastal,Positive,Lakme Ayurveda
+22,13,4.6,male,4.8,900,No,winter,plains,Positive,Urban Ladder
+10,5,3,female,3.2,200,Yes,summer,plains,Negtive,Lee
+27,13,4.6,male,4.8,800,No,summer,plains,Positive,Manyavar Mohey
+15,8,3.9,female,4.1,600,Yes,winter,mountains,Positive,Pepperfry
+19,10,4.3,male,4.5,700,Yes,summer,coastal,Positive,Johnson & Johnson
+23,14,4.7,female,4.9,800,No,winter,plains,Positive,Wildcraft
+28,15,4.8,female,5,900,Yes,summer,plains,Positive,Wakefit
+17,9,4.2,male,4.4,300,No,winter,plains,Positive,Flying Machine
+31,16,4.8,female,5,700,No,winter,plains,Positive,Pepperfry
+12,6,3.5,male,3.7,600,Yes,summer,coastal,Positive,Urban Ladder
+26,13,4.5,female,4.7,400,No,summer,plains,Positive,Manyavar Mohey
+9,5,3.2,male,3.4,500,Yes,winter,plains,Negtive,Amazonbasics
+20,11,4.4,female,4.6,700,No,winter,plains,Positive,Wildcraft
+14,8,3.8,male,4,200,No,summer,plains,Positive,Pepe Jeans London
+29,15,4.8,female,5,800,Yes,winter,plains,Positive,Lakme Ayurveda
+18,10,4.3,male,4.5,500,No,summer,plains,Positive,Manyavar Mohey
+32,17,4.9,female,5,900,No,winter,plains,Positive,Wildcraft
+16,9,4.2,male,4.4,300,No,summer,plains,Positive,Johnson & Johnson
+30,16,4.8,female,5,700,No,winter,plains,Positive,Pepperfry
+11,6,3.5,male,3.7,700,Yes,summer,coastal,Positive,Urban Ladder
+25,13,4.5,female,4.7,400,No,summer,plains,Positive,Manyavar Mohey
+8,5,3.2,male,3.4,600,Yes,winter,plains,Negtive,Amazonbasics
+21,12,4.6,female,4.8,800,Yes,summer,plains,Positive,Wakefit
+15,9,4,male,4.2,400,No,winter,plains,Positive,Flying Machine
+26,14,4.7,female,4.9,900,No,winter,plains,Positive,Wildcraft
+10,6,3.3,male,3.5,200,No,summer,plains,Positive,Lee
+18,11,4.5,female,4.7,500,Yes,winter,coastal,Positive,Johnson & Johnson
+33,18,5,male,5,700,No,winter,plains,Positive,Pepperfry
+9,6,3.3,female,3.5,400,No,summer,plains,Positive,Manyavar Mohey
+24,13,4.6,male,4.8,600,Yes,winter,plains,Negtive,Amazonbasics
+16,10,4.1,female,4.3,800,Yes,summer,coastal,Positive,Wildcraft
+29,16,4.9,male,5,300,No,summer,plains,Positive,Lee
+11,7,3.7,female,3.9,200,Yes,monsoon,plains,Positive,Sugar Cosmetics
+22,13,4.7,male,4.9,800,No,winter,mountains,Positive,Pepe Jeans London
+17,10,4.4,female,4.6,600,Yes,summer,plains,Positive,Wakefit
+31,17,4.9,male,5,700,No,winter,plains,Negtive,Amazonbasics
+14,9,4,female,4.2,800,Yes,summer,coastal,Positive,Wildcraft
+28,16,4.9,male,5,900,No,summer,plains,Positive,Manyavar Mohey
+12,7,3.6,female,3.8,200,Yes,summer,coastal,Positive,Lakme Ayurveda
+25,14,4.8,male,5,1000,Yes,winter,plains,Positive,Wildcraft
+8,6,3.4,female,3.6,300,No,summer,coastal,Positive,Johnson & Johnson
+21,13,4.7,male,4.9,800,Yes,winter,mountains,Positive,Manyavar Mohey
+15,10,4.1,female,4.3,900,Yes,summer,plains,Positive,Wakefit
+30,17,4.9,male,5,300,No,summer,plains,Positive,Lee
+10,7,3.4,female,3.6,400,No,winter,plains,Positive,Pepe Jeans London
+19,12,4.6,male,4.8,500,Yes,winter,coastal,Positive,Johnson & Johnson
+34,19,5,female,5,700,No,winter,plains,Positive,Wildcraft
+16,11,4.3,male,4.5,800,Yes,summer,coastal,Positive,Pepperfry
+29,17,4.9,female,5,900,No,summer,plains,Positive,Manyavar Mohey
+13,8,3.9,male,4.1,200,Yes,winter,plains,Positive,Flying Machine
+22,14,4.8,female,5,800,Yes,summer,plains,Positive,Wildcraft
+17,11,4.5,male,4.7,400,No,winter,plains,Positive,Pepe Jeans London
+32,18,5,female,5,700,No,winter,plains,Positive,Wakefit
+18,12,4.7,male,4.9,800,Yes,winter,plains,Negtive,Amazonbasics
+26,15,4.8,female,5,900,No,winter,plains,Positive,Wildcraft
+11,8,3.8,male,4,200,Yes,monsoon,plains,Positive,Sugar Cosmetics
+20,13,4.5,female,4.7,300,No,summer,plains,Positive,Lee
+15,11,4.2,male,4.4,800,Yes,summer,coastal,Positive,Lakme Ayurveda
+30,18,4.9,female,5,1000,No,winter,plains,Positive,Wildcraft
+9,7,3.5,male,3.7,400,Yes,winter,plains,Negtive,Pepperfry
+24,14,4.7,female,4.9,900,Yes,winter,plains,Positive,Manyavar Mohey
+16,12,4.4,male,4.6,500,Yes,summer,plains,Positive,Flying Machine
+31,18,4.9,female,5,700,No,winter,plains,Positive,Wildcraft
+14,10,4.2,male,4.4,400,No,summer,plains,Positive,Johnson & Johnson
+28,17,4.9,female,5,900,No,summer,plains,Positive,Wakefit
+12,8,3.7,male,3.9,200,No,winter,plains,Positive,Pepe Jeans London
+25,15,4.9,female,5,400,No,summer,plains,Positive,Manyavar Mohey
+8,7,3.6,male,3.8,500,Yes,winter,plains,Negtive,Amazonbasics
+21,14,4.8,female,5,800,Yes,summer,plains,Positive,Lakme Ayurveda
+15,12,4.3,male,4.5,900,Yes,summer,coastal,Positive,Wildcraft
+30,19,5,female,5,1000,No,summer,plains,Positive,Manyavar Mohey
+10,8,3.6,male,3.8,300,No,summer,plains,Positive,Lee
+19,13,4.6,female,4.8,500,Yes,winter,coastal,Positive,Johnson & Johnson
+34,20,5,male,5,700,No,winter,plains,Positive,Pepperfry
+16,13,4.5,female,4.7,800,Yes,summer,coastal,Positive,Wildcraft
+29,18,4.9,male,5,300,No,summer,plains,Positive,Lee
+13,9,4,female,4.2,200,Yes,winter,plains,Positive,Sugar Cosmetics
+22,15,4.9,male,5,800,No,winter,mountains,Positive,Pepe Jeans London
+17,12,4.6,female,4.8,400,Yes,summer,plains,Positive,Wakefit
+32,19,5,male,5,700,No,winter,plains,Positive,Wildcraft
+18,13,4.7,female,4.9,900,Yes,winter,plains,Positive,Manyavar Mohey
+26,16,4.9,male,5,1000,Yes,winter,plains,Positive,Wildcraft
+11,9,3.9,female,4.1,300,Yes,summer,plains,Positive,Pepperfry
+20,14,4.6,male,4.8,500,Yes,summer,plains,Positive,Lee
+15,13,4.4,female,4.6,900,Yes,summer,coastal,Positive,Wildcraft
+30,20,5,male,5,1000,No,summer,plains,Positive,Manyavar Mohey
+9,8,3.7,female,3.9,400,Yes,summer,coastal,Positive,Johnson & Johnson
+24,15,4.8,male,5,800,No,winter,mountains,Positive,Pepe Jeans London
+16,14,4.6,female,4.8,800,Yes,summer,coastal,Positive,Wildcraft
+11,10,4,male,4.2,500,Yes,summer,coastal,Positive,Head Hunters
+29,19,4.9,female,5,1000,No,summer,plains,Positive,Manyavar Mohey
+13,10,3.8,male,4,200,Yes,winter,plains,Positive,Sugar Cosmetics
+22,16,5,female,5,800,No,winter,mountains,Positive,Pepe Jeans London
+17,13,4.7,female,4.9,500,Yes,summer,plains,Positive,Wakefit
+32,20,5,male,5,700,No,winter,plains,Positive,Wildcraft
+18,14,4.8,female,5,900,Yes,winter,plains,Positive,Manyavar Mohey
+26,17,5,male,5,1000,Yes,winter,plains,Positive,Wildcraft
+11,11,4.1,female,4.3,300,Yes,summer,plains,Positive,Pepperfry
+20,15,4.7,male,4.9,500,Yes,summer,plains,Positive,Lee
+15,14,4.5,female,4.7,900,Yes,summer,coastal,Positive,Wildcraft
+30,21,5,male,5,1000,No,summer,plains,Positive,Manyavar Mohey
+9,9,3.8,female,4,400,Yes,summer,coastal,Positive,Johnson & Johnson
+24,16,4.9,male,5,800,No,winter,mountains,Positive,Pepe Jeans London
+16,15,4.7,female,4.9,800,Yes,summer,coastal,Positive,Wildcraft
+11,12,4.2,male,4.4,500,Yes,summer,coastal,Positive,Head Hunters
+29,20,4.9,female,5,1000,No,summer,plains,Positive,Manyavar Mohey
+13,11,3.9,male,4.1,200,Yes,winter,plains,Positive,Sugar Cosmetics
+22,17,5,female,5,800,No,winter,mountains,Positive,Pepe Jeans London
+17,14,4.8,female,5,500,Yes,summer,plains,Positive,Wakefit
+32,21,5,male,5,700,No,winter,plains,Positive,Wildcraft
+18,15,4.9,female,5,900,Yes,winter,plains,Positive,Manyavar Mohey
+26,18,5,male,5,1000,Yes,winter,plains,Positive,Wildcraft
+11,13,4.3,female,4.5,300,Yes,summer,plains,Positive,Pepperfry
+20,16,4.8,male,5,500,Yes,summer,plains,Positive,Lee
+15,15,4.6,female,4.8,900,Yes,summer,coastal,Positive,Wildcraft
+23,10,4.2,male,4.3,500,No,summer,plains,Positive,Pepperfry
+15,5,3.8,female,3.9,300,No,winter,plains,Positive,Max
+8,2,4.5,male,4.7,2000,No,summer,mountains,Positive,Puma
+45,18,4.7,female,4.8,1800,Yes,winter,plains,Positive,Head Hunters
+32,12,4.1,male,4.2,400,No,monsoon,coastal,Positive,Johnson & Johnson
+10,3,3.9,male,3.7,700,No,summer,plains,Negtive,Moov
+5,1,3.2,female,3.4,600,Yes,winter,mountains,Positive,Pepe Jeans London
+28,9,4,female,4.2,900,No,summer,plains,Positive,Wildcraft
+19,7,4.3,male,4.6,1400,No,winter,mountains,Positive,Kama Ayurveda
+38,15,4.6,female,4.5,180,Yes,monsoon,coastal,Positive,Manyavar Mohey
+12,4,3.5,female,3.6,300,No,winter,plains,Positive,Libram
+20,6,3.7,male,3.9,600,Yes,summer,plains,Positive,Lee
+7,2,4.8,male,4.9,1900,No,monsoon,mountains,Positive,Himalaya Liv.52
+42,17,4.9,female,4.7,2500,Yes,winter,plains,Positive,Patanjali Ayurved (Health Care)
+25,8,4.4,female,4.5,700,No,summer,plains,Positive,Lakme Ayurveda
+30,11,4.3,male,4.4,900,Yes,winter,mountains,Positive,Flying Machine
+14,5,3.6,male,3.5,400,No,monsoon,coastal,Positive,Fastrack
+6,2,3,female,3.1,500,Yes,winter,mountains,Positive,Khadi Essentials
+35,14,4.5,female,4.6,250,No,summer,plains,Positive,Allen Solly Woman
+18,7,4.1,male,4.3,800,No,winter,plains,Positive,Whisper
+9,3,4.7,female,4.8,1300,Yes,summer,mountains,Positive,Levis Strauss & Co.
+22,9,4,male,4.1,300,No,monsoon,coastal,Positive,Wakefit
+11,4,3.8,female,3.7,600,Yes,winter,mountains,Positive,Wild Stone
+16,6,4.2,female,4.4,1800,No,summer,plains,Positive,Forest Essentials
+40,16,4.4,male,4.3,90,No,monsoon,coastal,Positive,Biovea
+29,11,4.3,male,4.5,500,No,summer,plains,Positive,Johnson & Johnson
+13,5,3.7,female,3.9,4500,Yes,winter,mountains,Positive,Pepperfry
+8,3,4.6,female,4.7,700,No,summer,plains,Positive,U.S. Polo Assn. Women
+36,14,4.5,male,4.8,2700,Yes,winter,mountains,Positive,Wildcraft
+21,8,4.2,female,4.3,600,No,summer,plains,Positive,Manyavar Mohey
+45,18,4.8,male,4.7,1800,No,winter,plains,Positive,Lee
+10,4,3.9,male,3.8,300,Yes,summer,plains,Positive,Sugar Cosmetics
+27,10,4.1,female,4.2,900,No,winter,mountains,Positive,Forest Essentials
+17,7,3.5,male,3.7,800,Yes,summer,plains,Positive,Streax
+33,13,4.6,female,4.5,1400,No,monsoon,coastal,Positive,Himalaya Liv.52
+5,2,3.2,male,3.3,500,Yes,winter,mountains,Positive,Allen Solly Woman
+39,15,4.7,male,4.6,90,No,summer,plains,Positive,Moov
+24,9,4.4,female,4.5,1800,Yes,winter,plains,Positive,Head Hunters
+12,4,3.8,male,3.7,400,No,summer,plains,Positive,Libram
+41,16,4.3,female,4.4,2800,Yes,winter,mountains,Positive,Wakefit
+19,7,3.9,male,4,700,No,summer,plains,Positive,Vero Moda
+30,11,4.5,female,4.6,900,No,winter,mountains,Positive,Puma
+14,5,3.6,male,3.5,600,Yes,summer,plains,Positive,Pepe Jeans London
+28,10,4.8,male,4.7,1400,No,monsoon,coastal,Positive,Godrej Interio
+8,3,3.3,female,3.5,550,Yes,winter,mountains,Positive,Zandu
+25,9,4.2,male,4.4,190,No,summer,plains,Positive,Lee Cooper
+35,14,4.6,female,4.7,950,No,winter,mountains,Positive,Manyavar Mohey
+9,4,4.1,female,4.3,300,No,summer,plains,Positive,Lakme Ayurveda
+20,8,3.7,male,3.9,800,Yes,winter,plains,Positive,Patanjali Ayurved (Health Care)
+16,6,3.8,female,4,600,No,summer,plains,Positive,Lijoba
+32,12,4.4,male,4.5,1800,Yes,winter,plains,Positive,Max
+10,3,4,female,4.1,500,No,summer,plains,Positive,Head Hunters
+24,9,4.6,male,4.7,900,No,winter,mountains,Positive,Flying Machine
+7,2,3.5,female,3.7,4500,Yes,summer,coastal,Positive,Dettol
+39,15,4.9,male,4.8,280,No,monsoon,coastal,Positive,Flying Machine
+18,7,4.3,female,4.4,800,No,summer,plains,Positive,Wildcraft
+29,11,4.7,male,4.6,1400,Yes,winter,mountains,Positive,Sugar Cosmetics
+13,5,3.6,female,3.5,300,No,summer,plains,Positive,Streax
+26,10,4.1,male,4.3,700,No,winter,plains,Positive,Wild Stone
+8,3,4.2,male,4.4,1900,Yes,summer,mountains,Positive,Kama Ayurveda
+34,13,4.5,female,4.6,90,No,monsoon,coastal,Positive,Dettol
+21,8,3.9,female,4.1,600,No,summer,plains,Positive,Allen Solly Woman
+45,18,4.8,male,4.7,1800,Yes,winter,plains,Positive,Pepperfry
+10,4,3.7,male,3.9,400,No,summer,plains,Positive,Whisper
+27,10,4.3,female,4.5,1400,Yes,winter,mountains,Positive,Manyavar Mohey
+15,6,3.8,female,4,4500,No,summer,coastal,Positive,Moov
+31,12,4.6,male,4.5,280,No,monsoon,coastal,Positive,Flying Machine
+6,2,3.3,male,3.5,700,No,winter,plains,Positive,Sleepycat
+38,15,4.9,female,4.8,900,Yes,summer,mountains,Positive,Wildcraft
+19,7,3.7,female,3.8,1900,No,winter,plains,Positive,Patanjali Ayurved (Health Care)
+22,7,4.2,male,4.6,700,No,summer,plains,Positive,Lakme Ayurveda
+8,2,3.9,female,3.2,2000,Yes,winter,plains,Negtive,Flying Machine
+35,14,4.7,male,4.8,9000,Yes,monsoon,mountains,Positive,Urban Ladder
+12,5,4.5,female,3.9,3000,No,spring,plains,Positive,Dove Hair
+43,18,4.9,male,4.7,4000,No,winter,plains,Positive,Patanjali Ayurved (Health Care)
+5,1,3.1,female,2.5,800,Yes,summer,coastal,Negtive,Manyavar Mohey
+29,10,4.4,male,4.2,6000,No,monsoon,mountains,Positive,Wildcraft
+17,4,3.8,female,3.6,700,No,summer,plains,Negtive,Pepe Jeans London
+38,16,4.6,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+3,0,2.2,female,1.8,200,No,summer,coastal,Negtive,Johnson & Johnson
+25,9,4.1,male,3.8,4000,No,winter,plains,Positive,Head & Shoulders
+10,3,3.5,female,3.4,500,No,spring,plains,Negtive,Pepperfry
+47,19,4.8,male,4.5,8000,No,winter,mountains,Positive,Dettol
+2,0,1.5,female,1.2,100,No,summer,coastal,Negtive,Libram
+31,12,4.3,male,4.3,3000,No,monsoon,mountains,Positive,Lijoba
+14,6,3.7,female,3.1,1000,No,spring,plains,Negtive,Max
+40,17,4.7,male,4.6,7000,Yes,monsoon,mountains,Positive,Fastrack
+6,1,2.5,female,2.2,600,No,spring,plains,Negtive,Wakefit
+19,8,4,male,4.4,5000,Yes,winter,mountains,Positive,Kama Ayurveda
+1,0,1,female,1,100,No,summer,coastal,Negtive,Biovea
+34,15,4.5,male,4.8,9000,Yes,winter,mountains,Positive,Urban Ladder
+9,2,3.3,female,2.8,800,No,spring,plains,Negtive,The Moms Co.
+42,16,4.9,male,4.7,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+4,0,2,female,1.5,200,No,summer,coastal,Negtive,Manyavar Mohey
+28,11,4.2,male,3.7,2000,No,winter,plains,Positive,Streax
+18,7,4.1,female,4.4,800,No,summer,plains,Negtive,Khadi Essentials
+37,15,4.6,male,4.7,5000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+5,2,2.8,female,2.1,300,No,spring,plains,Negtive,Flying Machine
+23,10,3.9,male,3.5,2000,No,winter,plains,Negtive,Lee
+46,18,4.8,male,4.9,10000,Yes,winter,mountains,Positive,Dettol
+3,1,1.5,female,1.2,100,No,summer,coastal,Negtive,Manyavar Mohey
+30,12,4.3,male,4.1,3000,No,monsoon,mountains,Positive,Lijoba
+15,6,3.6,female,3,800,No,spring,plains,Negtive,Max
+39,16,4.7,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+26,11,4,male,3.9,3000,No,winter,plains,Positive,Johnson & Johnson
+11,4,3.4,female,2.7,500,No,spring,plains,Negtive,Wakefit
+44,17,4.8,male,4.6,9000,Yes,winter,mountains,Positive,Urban Ladder
+4,1,2,female,1.8,200,No,summer,coastal,Negtive,Manyavar Mohey
+32,13,4.4,male,4.5,6000,No,monsoon,mountains,Positive,Dettol
+13,5,3.5,female,3.2,900,No,spring,plains,Negtive,Pepperfry
+41,17,4.9,male,4.8,8000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+7,2,2.2,female,1.9,300,No,summer,coastal,Negtive,Libram
+29,12,4.3,male,4.2,3000,No,monsoon,mountains,Positive,Lijoba
+16,7,3.8,female,3.3,1000,No,spring,plains,Negtive,Pepe Jeans London
+38,16,4.7,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+2,0,1,female,1,100,No,summer,coastal,Negtive,Biovea
+27,11,4.1,male,3.8,4000,No,winter,plains,Positive,Head & Shoulders
+9,3,3.2,female,2.9,800,No,spring,plains,Negtive,The Moms Co.
+48,19,4.9,male,4.6,9000,Yes,winter,mountains,Positive,Dettol
+34,14,4.5,male,4.8,9000,Yes,winter,mountains,Positive,Urban Ladder
+10,4,3.3,female,2.8,900,No,spring,plains,Negtive,The Moms Co.
+45,18,4.8,male,4.9,10000,Yes,winter,mountains,Positive,Dettol
+8,2,2.8,female,2.1,300,No,spring,plains,Negtive,Flying Machine
+33,13,4.4,male,4.5,6000,No,monsoon,mountains,Positive,Dettol
+12,5,3.4,female,3.1,1000,No,spring,plains,Negtive,Pepperfry
+50,20,5,male,4.8,10000,Yes,winter,mountains,Positive,Streax
+21,9,3.9,female,3.6,600,No,spring,plains,Negtive,Kama Ayurveda
+49,19,4.9,male,4.8,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+14,6,3.5,female,3.2,900,No,spring,plains,Negtive,Pepperfry
+36,15,4.5,male,4.7,5000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+17,8,3.7,female,3.4,1200,No,spring,plains,Negtive,Max
+43,17,4.8,male,4.7,8000,Yes,winter,mountains,Positive,Himalaya Liv.52
+19,7,3.8,female,3.5,700,No,spring,plains,Negtive,Khadi Essentials
+35,14,4.6,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+20,8,3.8,female,3.5,800,No,spring,plains,Negtive,Khadi Essentials
+47,19,4.9,male,4.7,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+22,10,4,female,3.7,700,No,spring,plains,Negtive,Kama Ayurveda
+40,16,4.7,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+25,11,4.2,female,3.8,1500,No,spring,plains,Negtive,Flying Machine
+42,18,4.8,male,4.6,8000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+7,3,2.5,female,2.2,600,No,spring,plains,Negtive,Wakefit
+27,12,4.1,male,4.3,5000,No,monsoon,mountains,Positive,Dettol
+44,18,4.8,male,4.7,9000,Yes,winter,mountains,Positive,Himalaya Liv.52
+3,1,1.5,female,1.3,100,No,summer,coastal,Negtive,Manyavar Mohey
+29,13,4.4,male,4.1,3000,No,monsoon,mountains,Positive,Lijoba
+16,7,3.7,female,3.3,1000,No,spring,plains,Negtive,Pepe Jeans London
+46,19,4.9,male,4.8,9000,Yes,winter,mountains,Positive,Dettol
+2,0,1,female,1.1,100,No,summer,coastal,Negtive,Libram
+30,13,4.5,male,4.6,6000,No,monsoon,mountains,Positive,Dettol
+13,6,3.6,female,3.4,1100,No,spring,plains,Negtive,Pepperfry
+45,19,4.9,male,4.8,10000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+8,3,3,female,2.5,400,No,spring,plains,Negtive,Flying Machine
+33,14,4.4,male,4.7,5000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+11,5,3.4,female,3,1100,No,spring,plains,Negtive,Pepperfry
+48,20,5,male,4.9,10000,Yes,winter,mountains,Positive,Himalaya Liv.52
+4,1,2,female,1.9,200,No,summer,coastal,Negtive,Manyavar Mohey
+28,12,4,male,3.8,5000,No,monsoon,mountains,Positive,Head & Shoulders
+14,7,3.8,female,3.5,1200,No,spring,plains,Negtive,Pepperfry
+43,18,4.8,male,4.7,9000,Yes,winter,mountains,Positive,Himalaya Liv.52
+9,4,3.2,female,2.7,1000,No,spring,plains,Negtive,The Moms Co.
+34,15,4.5,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+12,6,3.5,female,3.3,1100,No,spring,plains,Negtive,Pepperfry
+49,20,4.9,male,4.8,10000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+5,2,2.3,female,2,500,No,spring,plains,Negtive,Flying Machine
+31,14,4.5,male,4.7,6000,No,monsoon,mountains,Positive,Patanjali Ayurved (Health Care)
+15,8,3.9,female,3.6,1300,No,spring,plains,Negtive,Max
+10,5,3.3,female,3.1,1100,No,spring,plains,Negtive,The Moms Co.
+36,16,4.6,male,4.8,5000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+17,8,3.8,female,3.5,1300,No,spring,plains,Negtive,Max
+50,20,5,male,4.9,10000,Yes,winter,mountains,Positive,Streax
+32,14,4.5,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+18,9,4,female,3.7,800,No,spring,plains,Negtive,Khadi Essentials
+37,16,4.7,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+19,8,3.8,female,3.6,700,No,spring,plains,Negtive,Khadi Essentials
+38,17,4.7,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+6,2,2.5,female,2.3,600,No,spring,plains,Negtive,Wakefit
+35,15,4.6,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+21,10,4.1,female,3.8,700,No,spring,plains,Negtive,Kama Ayurveda
+39,17,4.8,male,4.7,8000,Yes,winter,mountains,Positive,Himalaya Liv.52
+20,9,4,female,3.7,800,No,spring,plains,Negtive,Khadi Essentials
+40,17,4.8,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+26,12,4.2,female,3.9,1500,No,spring,plains,Negtive,Flying Machine
+41,18,4.8,male,4.7,8000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+8,4,3,female,2.6,400,No,spring,plains,Negtive,Flying Machine
+34,15,4.4,male,4.7,5000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+4,2,2.2,female,2,300,No,summer,coastal,Negtive,Manyavar Mohey
+30,14,4.5,male,4.6,6000,No,monsoon,mountains,Positive,Dettol
+17,8,3.8,female,3.4,1200,No,spring,plains,Negtive,Max
+47,20,5,male,4.9,10000,Yes,winter,mountains,Positive,Himalaya Liv.52
+2,1,1.3,female,1.2,100,No,summer,coastal,Negtive,Manyavar Mohey
+31,15,4.6,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+14,7,3.9,female,3.6,1100,No,spring,plains,Negtive,Pepperfry
+6,3,2.5,female,2.3,600,No,spring,plains,Negtive,Wakefit
+32,15,4.4,male,4.7,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+15,8,3.9,female,3.5,1300,No,spring,plains,Negtive,Max
+48,19,4.9,male,4.8,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+10,6,3.2,female,3.1,1100,No,spring,plains,Negtive,The Moms Co.
+37,17,4.7,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+12,7,3.5,female,3.3,1100,No,spring,plains,Negtive,Pepperfry
+5,3,2.5,female,2.1,500,No,spring,plains,Negtive,Flying Machine
+33,15,4.4,male,4.8,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+13,7,3.7,female,3.5,1200,No,spring,plains,Negtive,Pepperfry
+35,16,4.6,male,4.9,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+20,10,4,female,3.7,800,No,spring,plains,Negtive,Khadi Essentials
+38,18,4.8,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+9,5,3.2,female,3,1100,No,spring,plains,Negtive,The Moms Co.
+36,17,4.6,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+11,6,3.4,female,3.2,1200,No,spring,plains,Negtive,Pepperfry
+47,20,4.9,male,4.8,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+6,4,2.6,female,2.4,700,No,spring,plains,Negtive,Wakefit
+32,16,4.4,male,4.7,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+14,8,4,female,3.8,1200,No,spring,plains,Negtive,Pepperfry
+5,4,2.7,female,2.2,500,No,spring,plains,Negtive,Flying Machine
+33,16,4.5,male,4.8,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+15,9,4.1,female,3.8,1300,No,spring,plains,Negtive,Max
+48,20,4.9,male,4.8,10000,Yes,winter,mountains,Positive,Himalaya Liv.52
+7,4,2.7,female,2.3,700,No,spring,plains,Negtive,Wakefit
+34,16,4.5,male,4.8,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+16,8,3.9,female,3.6,1000,No,spring,plains,Negtive,Pepe Jeans London
+8,5,3,female,2.7,400,No,spring,plains,Negtive,Flying Machine
+35,17,4.6,male,4.8,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+21,11,4.1,female,3.8,800,No,spring,plains,Negtive,Kama Ayurveda
+37,18,4.7,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+10,7,3.2,female,3,1100,No,spring,plains,Negtive,The Moms Co.
+38,19,4.8,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+39,19,4.8,male,4.7,8000,Yes,winter,mountains,Positive,Himalaya Liv.52
+6,5,2.8,female,2.5,800,No,spring,plains,Negtive,Wakefit
+32,17,4.5,male,4.8,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+13,8,3.6,female,3.4,1200,No,spring,plains,Negtive,Pepperfry
+49,20,4.9,male,4.8,9000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+5,5,2.8,female,2.4,500,No,spring,plains,Negtive,Flying Machine
+33,17,4.5,male,4.8,6000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+14,9,4,female,3.8,1200,No,spring,plains,Negtive,Pepperfry
+8,6,3,female,2.8,400,No,spring,plains,Negtive,Flying Machine
+35,18,4.6,male,4.8,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+22,12,4.2,female,3.9,800,No,spring,plains,Negtive,Kama Ayurveda
+37,19,4.7,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+11,7,3.3,female,3.1,1200,No,spring,plains,Negtive,Pepperfry
+38,20,4.8,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+7,5,2.9,female,2.6,800,No,spring,plains,Negtive,Wakefit
+34,18,4.6,male,4.8,7000,No,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+15,10,4.1,female,3.9,1300,No,spring,plains,Negtive,Max
+40,19,4.8,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+9,6,3.1,female,2.9,1100,No,spring,plains,Negtive,The Moms Co.
+40,20,4.8,male,4.8,8000,Yes,monsoon,mountains,Positive,Fastrack
+7,6,3,female,2.9,800,No,spring,plains,Negtive,Wakefit
+35,19,4.7,male,4.8,10000,Yes,winter,mountains,Positive,Allen Solly Woman
+23,13,4.3,female,4,800,No,spring,plains,Negtive,Kama Ayurveda
+8,7,3.1,female,3,400,No,spring,plains,Negtive,Flying Machine
+36,18,4.7,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+12,8,3.6,female,3.4,1200,No,spring,plains,Negtive,Pepperfry
+9,7,3.1,female,2.9,1100,No,spring,plains,Negtive,The Moms Co.
+41,20,4.8,male,4.7,8000,Yes,monsoon,mountains,Positive,Himalaya Liv.52
+7,7,3,female,2.8,800,No,spring,plains,Negtive,Wakefit
+36,19,4.8,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+13,9,3.7,female,3.5,1200,No,spring,plains,Negtive,Pepperfry
+37,20,4.8,male,4.8,6000,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+14,10,4,female,3.9,1200,No,spring,plains,Negtive,Pepperfry
+20,5,4.3,female,4.7,700,No,summer,plains,Positive,Flying Machine
+10,2,3.8,male,4.2,500,Yes,winter,plains,Positive,Max
+5,1,4.5,female,3.9,900,No,monsoon,coastal,Positive,Lee
+15,3,4.2,female,4.8,1000,Yes,spring,mountains,Positive,Fastrack
+8,0,4,male,3.5,800,No,winter,mountains,Negtive,Wildcraft
+25,7,4.8,male,4.9,700,No,summer,plains,Positive,Puma
+30,10,4.7,female,4.6,400,Yes,winter,plains,Positive,Hrx
+12,4,3.5,female,3.4,900,No,summer,coastal,Negtive,Mothercare
+40,15,4.9,male,4.7,200,Yes,monsoon,plains,Positive,Johnson & Johnson
+5,0,2.5,male,2.8,100,No,summer,mountains,Negtive,The Moms Co.
+18,6,4.1,female,4.5,600,Yes,winter,plains,Positive,Wakefit
+22,8,4.6,female,4.4,300,Yes,spring,mountains,Positive,Sleepycat
+3,0,3,male,3.2,1000,Yes,summer,plains,Negtive,Duroflex
+45,18,4.9,male,4.9,900,Yes,summer,coastal,Positive,Pepperfry
+7,2,3.7,female,3.8,300,No,winter,mountains,Positive,Godrej Interio
+10,2,4,male,4.1,700,Yes,summer,mountains,Positive,Urban Ladder
+28,12,4.5,female,4.6,200,No,summer,plains,Positive,Khadi Essentials
+35,14,4.8,male,4.8,500,Yes,spring,mountains,Positive,Forest Essentials
+2,0,2,male,2.3,100,No,winter,plains,Negtive,Kama Ayurveda
+16,5,3.9,female,3.7,800,No,monsoon,coastal,Positive,Sugar Cosmetics
+6,1,3.2,male,3.6,600,Yes,winter,mountains,Negtive,Lakme Ayurveda
+38,16,4.7,female,4.7,100,Yes,spring,plains,Positive,Biovea
+9,3,3.6,male,3.3,400,No,winter,plains,Negtive,Patanjali Ayurved (Health Care)
+14,4,4.4,female,4.4,800,No,summer,plains,Positive,Dabur Chyawanprash
+21,7,4.6,female,4.5,800,Yes,summer,plains,Positive,Amazonbasics
+33,11,4.3,male,4.2,700,Yes,monsoon,coastal,Positive,Flying Machine
+8,1,3.7,male,3.8,300,No,summer,plains,Positive,Max
+11,3,4.1,female,4.4,900,Yes,spring,coastal,Positive,Lee
+25,8,4.8,male,4.9,600,Yes,summer,mountains,Positive,Spyker
+5,2,2.9,female,3.1,400,No,winter,plains,Negtive,Fastrack
+17,6,4.5,male,4.3,700,Yes,summer,plains,Positive,Wildcraft
+29,9,4.7,male,4.6,800,Yes,summer,plains,Positive,Head Hunters
+4,0,2,female,2.3,200,No,monsoon,coastal,Negtive,Puma
+14,4,3.9,male,4.2,900,No,winter,plains,Positive,Hrx
+6,2,3.2,female,3.5,500,Yes,summer,mountains,Positive,Mothercare
+19,5,4.2,female,4.7,1000,Yes,winter,plains,Positive,Johnson & Johnson
+22,10,4.4,male,4.6,300,Yes,summer,coastal,Positive,The Moms Co.
+12,3,3.8,female,3.9,200,Yes,monsoon,mountains,Positive,Wakefit
+27,13,4.6,male,4.8,700,Yes,winter,plains,Positive,Sleepycat
+8,2,3,female,3.4,600,Yes,summer,coastal,Negtive,Duroflex
+36,15,4.9,male,4.8,800,Yes,summer,mountains,Positive,Pepperfry
+15,5,3.8,female,3.6,900,No,winter,plains,Positive,Godrej Interio
+10,3,3.5,male,3.7,400,Yes,spring,plains,Positive,Urban Ladder
+24,8,4.3,female,4.5,800,Yes,summer,coastal,Positive,Khadi Essentials
+31,12,4.8,male,4.7,600,Yes,summer,plains,Positive,Forest Essentials
+3,1,2.5,male,2.7,500,No,summer,mountains,Negtive,Kama Ayurveda
+16,4,3.6,female,3.8,200,Yes,winter,coastal,Positive,Sugar Cosmetics
+9,2,3,male,3.3,100,No,summer,plains,Negtive,Lakme Ayurveda
+39,17,4.8,female,4.8,500,Yes,spring,coastal,Positive,Biovea
+7,1,2.8,male,3,300,No,winter,plains,Negtive,Patanjali Ayurved (Health Care)
+20,6,4.1,female,4.2,700,Yes,summer,mountains,Positive,Dabur Chyawanprash
+23,7,4.7,female,4.6,400,Yes,winter,plains,Positive,Amazonbasics
+35,12,4.4,male,4.3,300,No,summer,coastal,Positive,Flying Machine
+10,2,3.6,male,3.8,800,Yes,summer,mountains,Positive,Max
+13,4,4,female,4.5,600,Yes,winter,coastal,Positive,Lee
+26,9,4.8,male,4.9,900,Yes,spring,mountains,Positive,Spyker
+6,1,2.8,female,3,200,No,summer,plains,Negtive,Fastrack
+18,7,4.6,male,4.4,400,Yes,summer,plains,Positive,Wildcraft
+30,10,4.5,male,4.6,500,Yes,monsoon,plains,Positive,Head Hunters
+5,0,1.8,female,2.2,100,No,summer,coastal,Negtive,Puma
+16,5,3.8,male,4.1,700,Yes,summer,mountains,Positive,Hrx
+7,2,3.1,female,3.3,300,Yes,winter,coastal,Positive,Mothercare
+20,6,4.3,female,4.7,800,Yes,summer,plains,Positive,Johnson & Johnson
+24,8,4.5,male,4.7,600,Yes,winter,plains,Positive,The Moms Co.
+14,4,3.9,female,4,200,Yes,summer,plains,Positive,Wakefit
+28,14,4.7,male,4.8,1000,Yes,winter,mountains,Positive,Sleepycat
+9,2,2.9,female,3.2,500,Yes,summer,mountains,Negtive,Duroflex
+38,16,4.9,male,4.8,900,Yes,spring,plains,Positive,Pepperfry
+12,3,3.7,female,3.5,600,Yes,summer,mountains,Positive,Godrej Interio
+11,4,3.4,male,3.6,800,Yes,winter,plains,Positive,Urban Ladder
+22,7,4.2,female,4.4,700,Yes,summer,coastal,Positive,Khadi Essentials
+32,13,4.9,male,4.7,500,Yes,summer,plains,Positive,Forest Essentials
+4,1,2.3,male,2.6,400,No,summer,coastal,Negtive,Kama Ayurveda
+15,6,3.7,female,3.9,300,Yes,winter,plains,Positive,Sugar Cosmetics
+8,3,2.8,male,3.1,700,Yes,summer,mountains,Negtive,Lakme Ayurveda
+37,18,4.8,female,4.8,600,Yes,spring,coastal,Positive,Biovea
+6,1,2.7,male,2.9,200,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+19,5,4,female,4.1,800,Yes,summer,coastal,Positive,Dabur Chyawanprash
+25,8,4.8,female,4.7,700,Yes,winter,plains,Positive,Amazonbasics
+38,13,4.5,male,4.4,500,Yes,summer,coastal,Positive,Flying Machine
+12,2,3.5,male,3.7,600,Yes,summer,mountains,Positive,Max
+15,5,3.9,female,4.3,300,Yes,winter,coastal,Positive,Lee
+28,10,4.7,male,4.9,1000,Yes,spring,mountains,Positive,Spyker
+7,1,2.6,female,2.8,300,No,summer,plains,Negtive,Fastrack
+21,6,4.5,male,4.3,500,Yes,summer,plains,Positive,Wildcraft
+32,11,4.6,male,4.7,400,Yes,monsoon,plains,Positive,Head Hunters
+4,0,1.6,female,2,200,No,summer,coastal,Negtive,Puma
+14,4,3.6,male,3.9,800,Yes,summer,mountains,Positive,Hrx
+8,2,3,female,3.2,400,Yes,winter,coastal,Positive,Mothercare
+19,7,4.1,female,4.5,700,Yes,summer,plains,Positive,Johnson & Johnson
+23,9,4.3,male,4.6,500,Yes,winter,plains,Positive,The Moms Co.
+13,3,3.8,female,3.9,300,Yes,summer,plains,Positive,Wakefit
+30,15,4.6,male,4.8,1100,Yes,winter,mountains,Positive,Sleepycat
+11,1,2.7,female,3,600,Yes,summer,mountains,Negtive,Duroflex
+39,17,4.9,male,4.9,1000,Yes,spring,plains,Positive,Pepperfry
+10,3,3.4,female,3.6,700,Yes,summer,mountains,Positive,Godrej Interio
+9,5,3.2,male,3.4,900,Yes,winter,plains,Positive,Urban Ladder
+25,8,4.4,female,4.5,800,Yes,summer,coastal,Positive,Khadi Essentials
+36,14,4.8,male,4.7,700,Yes,summer,plains,Positive,Forest Essentials
+3,1,2.1,male,2.5,300,No,summer,coastal,Negtive,Kama Ayurveda
+17,6,3.8,female,3.9,400,Yes,winter,plains,Positive,Sugar Cosmetics
+7,2,2.6,male,2.9,800,Yes,summer,mountains,Negtive,Lakme Ayurveda
+40,19,4.8,female,4.8,700,Yes,spring,coastal,Positive,Biovea
+6,1,2.5,male,2.8,300,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+18,6,4,female,4.1,900,Yes,summer,coastal,Positive,Dabur Chyawanprash
+24,9,4.9,female,4.8,800,Yes,winter,plains,Positive,Amazonbasics
+41,14,4.6,male,4.5,600,Yes,summer,coastal,Positive,Flying Machine
+11,2,3.4,male,3.6,700,Yes,summer,mountains,Positive,Max
+14,4,4,female,4.4,400,Yes,winter,coastal,Positive,Lee
+30,11,4.6,male,4.8,1200,Yes,spring,mountains,Positive,Spyker
+8,1,2.4,female,2.6,400,No,summer,plains,Negtive,Fastrack
+22,7,4.4,male,4.2,600,Yes,summer,plains,Positive,Wildcraft
+33,12,4.7,male,4.8,500,Yes,monsoon,plains,Positive,Head Hunters
+5,0,1.4,female,1.8,300,No,summer,coastal,Negtive,Puma
+16,6,3.7,male,4,900,Yes,summer,mountains,Positive,Hrx
+6,3,2.8,female,3.1,500,Yes,winter,coastal,Positive,Mothercare
+20,8,4.2,female,4.6,800,Yes,summer,plains,Positive,Johnson & Johnson
+25,10,4.5,male,4.7,600,Yes,winter,plains,Positive,The Moms Co.
+15,5,3.7,female,3.9,400,Yes,summer,plains,Positive,Wakefit
+32,16,4.8,male,4.9,1300,Yes,winter,mountains,Positive,Sleepycat
+10,2,2.7,female,3,700,Yes,summer,mountains,Negtive,Duroflex
+40,18,4.9,male,4.8,1100,Yes,spring,plains,Positive,Pepperfry
+9,1,2.4,female,2.7,800,Yes,summer,mountains,Positive,Godrej Interio
+13,6,3.3,male,3.5,1000,Yes,winter,plains,Positive,Urban Ladder
+28,9,4.3,female,4.5,900,Yes,summer,coastal,Positive,Khadi Essentials
+34,15,4.9,male,4.8,800,Yes,summer,plains,Positive,Forest Essentials
+2,0,1.8,male,2.3,400,No,summer,coastal,Negtive,Kama Ayurveda
+18,7,3.9,female,4,500,Yes,winter,plains,Positive,Sugar Cosmetics
+8,3,2.4,male,2.8,900,Yes,summer,mountains,Negtive,Lakme Ayurveda
+41,20,4.9,female,4.8,800,Yes,spring,coastal,Positive,Biovea
+7,1,2.3,male,2.6,300,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+21,6,3.9,female,4.1,1000,Yes,summer,coastal,Positive,Dabur Chyawanprash
+26,10,4.9,female,4.9,900,Yes,winter,plains,Positive,Amazonbasics
+44,15,4.7,male,4.6,700,Yes,summer,coastal,Positive,Flying Machine
+10,3,3.2,male,3.5,800,Yes,summer,mountains,Positive,Max
+16,4,3.8,female,4.2,500,Yes,winter,coastal,Positive,Lee
+31,12,4.7,male,4.9,1400,Yes,spring,mountains,Positive,Spyker
+9,1,2.2,female,2.4,500,No,summer,plains,Negtive,Fastrack
+23,8,4.6,male,4.3,700,Yes,summer,plains,Positive,Wildcraft
+35,13,4.8,male,4.9,600,Yes,monsoon,plains,Positive,Head Hunters
+6,0,1.2,female,1.6,400,No,summer,coastal,Negtive,Puma
+17,7,3.8,male,4.1,1000,Yes,summer,mountains,Positive,Hrx
+7,4,2.6,female,2.9,600,Yes,winter,coastal,Positive,Mothercare
+21,9,4.1,female,4.6,900,Yes,summer,plains,Positive,Johnson & Johnson
+26,11,4.4,male,4.8,700,Yes,winter,plains,Positive,The Moms Co.
+16,5,3.6,female,3.8,500,Yes,summer,plains,Positive,Wakefit
+34,17,4.7,male,4.9,1500,Yes,winter,mountains,Positive,Sleepycat
+11,3,2.6,female,2.9,800,Yes,summer,mountains,Negtive,Duroflex
+42,19,4.9,male,4.8,1200,Yes,spring,plains,Positive,Pepperfry
+8,2,2.3,female,2.6,900,Yes,summer,mountains,Positive,Godrej Interio
+15,6,3.5,male,3.8,1100,Yes,winter,plains,Positive,Urban Ladder
+30,10,4.2,female,4.7,1000,Yes,summer,coastal,Positive,Khadi Essentials
+37,16,4.9,male,4.8,900,Yes,summer,plains,Positive,Forest Essentials
+3,1,1.6,male,2.1,500,No,summer,coastal,Negtive,Kama Ayurveda
+19,8,3.9,female,4,600,Yes,winter,plains,Positive,Sugar Cosmetics
+9,2,2.2,male,2.5,1000,Yes,summer,mountains,Negtive,Lakme Ayurveda
+43,21,4.9,female,4.8,900,Yes,spring,coastal,Positive,Biovea
+8,0,1.9,male,2.3,400,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+23,6,3.8,female,4,1200,Yes,summer,coastal,Positive,Dabur Chyawanprash
+27,11,4.9,female,4.9,1000,Yes,winter,plains,Positive,Amazonbasics
+47,16,4.8,male,4.7,800,Yes,summer,coastal,Positive,Flying Machine
+11,3,3.4,male,3.6,900,Yes,summer,mountains,Positive,Max
+18,5,4,female,4.4,600,Yes,winter,coastal,Positive,Lee
+33,13,4.8,male,4.9,1500,Yes,spring,mountains,Positive,Spyker
+10,0,2,female,2.2,600,No,summer,plains,Negtive,Fastrack
+24,9,4.7,male,4.4,800,Yes,summer,plains,Positive,Wildcraft
+36,14,4.9,male,5,700,Yes,monsoon,plains,Positive,Head Hunters
+7,1,1,female,1.3,500,No,summer,coastal,Negtive,Puma
+18,8,4,male,4.2,1200,Yes,summer,mountains,Positive,Hrx
+8,5,2.5,female,2.9,700,Yes,winter,coastal,Positive,Mothercare
+22,10,4.3,female,4.8,1000,Yes,summer,plains,Positive,Johnson & Johnson
+27,12,4.3,male,4.9,800,Yes,winter,plains,Positive,The Moms Co.
+18,6,3.7,female,3.9,600,Yes,summer,plains,Positive,Wakefit
+36,18,4.8,male,4.9,1600,Yes,winter,mountains,Positive,Sleepycat
+12,2,2.5,female,2.8,900,Yes,summer,mountains,Negtive,Duroflex
+46,20,4.9,male,4.8,1300,Yes,spring,plains,Positive,Pepperfry
+10,1,1.9,female,2.2,1000,Yes,summer,mountains,Positive,Godrej Interio
+17,7,3.8,male,4,1200,Yes,winter,plains,Positive,Urban Ladder
+32,11,4,female,4.5,1100,Yes,summer,coastal,Positive,Khadi Essentials
+39,17,4.9,male,4.8,1000,Yes,summer,plains,Positive,Forest Essentials
+4,2,1.3,male,1.8,600,No,summer,coastal,Negtive,Kama Ayurveda
+20,9,4,female,4.1,700,Yes,winter,plains,Positive,Sugar Cosmetics
+10,3,2,male,2.4,1200,Yes,summer,mountains,Negtive,Lakme Ayurveda
+45,22,4.9,female,4.8,1100,Yes,spring,coastal,Positive,Biovea
+9,1,1.8,male,2.1,500,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+25,7,4,female,4.2,1400,Yes,summer,coastal,Positive,Dabur Chyawanprash
+28,12,4.9,female,4.9,1100,Yes,winter,plains,Positive,Amazonbasics
+50,17,4.9,male,4.8,900,Yes,summer,coastal,Positive,Flying Machine
+12,4,3.6,male,3.8,1000,Yes,summer,mountains,Positive,Max
+20,6,4,female,4.5,700,Yes,winter,coastal,Positive,Lee
+35,14,4.8,male,4.9,1600,Yes,spring,mountains,Positive,Spyker
+11,0,1.8,female,2,700,No,summer,plains,Negtive,Fastrack
+25,10,4.8,male,4.5,900,Yes,summer,plains,Positive,Wildcraft
+37,15,4.9,male,5,800,Yes,monsoon,plains,Positive,Head Hunters
+8,2,1.8,female,2.1,600,No,summer,coastal,Negtive,Puma
+20,9,3.9,male,4.3,1300,Yes,summer,mountains,Positive,Hrx
+9,6,2.8,female,3,800,Yes,winter,coastal,Positive,Mothercare
+23,11,4.4,female,4.8,1200,Yes,summer,plains,Positive,Johnson & Johnson
+28,13,4.4,male,4.9,900,Yes,winter,plains,Positive,The Moms Co.
+20,7,3.6,female,3.9,700,Yes,summer,plains,Positive,Wakefit
+38,19,4.9,male,5,1700,Yes,winter,mountains,Positive,Sleepycat
+13,3,2.3,female,2.6,1000,Yes,summer,mountains,Negtive,Duroflex
+50,21,4.9,male,4.9,1400,Yes,spring,plains,Positive,Pepperfry
+12,2,1.7,female,2,1100,Yes,summer,mountains,Positive,Godrej Interio
+22,8,4.1,female,4.6,1400,Yes,winter,plains,Positive,Urban Ladder
+34,12,4.1,male,4.6,1200,Yes,summer,coastal,Positive,Khadi Essentials
+41,18,4.9,male,4.9,1100,Yes,summer,plains,Positive,Forest Essentials
+6,3,1,male,1.5,700,No,summer,coastal,Negtive,Kama Ayurveda
+21,10,3.9,female,4.1,800,Yes,winter,plains,Positive,Sugar Cosmetics
+11,4,1.7,male,2,1300,Yes,summer,mountains,Negtive,Lakme Ayurveda
+48,23,4.9,female,4.9,1200,Yes,spring,coastal,Positive,Biovea
+10,2,1.7,male,2,600,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+27,8,4,female,4.3,1500,Yes,summer,coastal,Positive,Dabur Chyawanprash
+30,14,4.9,female,4.9,1200,Yes,winter,plains,Positive,Amazonbasics
+53,18,4.9,male,4.9,1000,Yes,summer,coastal,Positive,Flying Machine
+13,5,3,male,3.5,1100,Yes,summer,mountains,Positive,Max
+22,7,4,female,4.6,800,Yes,winter,coastal,Positive,Lee
+37,15,4.9,male,5,1700,Yes,spring,mountains,Positive,Spyker
+12,1,1.5,female,1.7,800,No,summer,plains,Negtive,Fastrack
+26,11,4.9,male,4.6,1000,Yes,summer,plains,Positive,Wildcraft
+39,16,4.9,male,5,900,Yes,monsoon,plains,Positive,Head Hunters
+10,3,1.5,female,2,700,No,summer,coastal,Negtive,Puma
+22,10,4,male,4.4,1400,Yes,summer,mountains,Positive,Hrx
+10,7,2.2,female,2.5,900,Yes,winter,coastal,Positive,Mothercare
+25,12,4.5,female,5,1300,Yes,summer,plains,Positive,Johnson & Johnson
+29,14,4.5,male,4.9,1000,Yes,winter,plains,Positive,The Moms Co.
+22,8,3.5,female,3.9,800,Yes,summer,plains,Positive,Wakefit
+40,20,4.9,male,5,1800,Yes,winter,mountains,Positive,Sleepycat
+15,4,1.8,female,2.1,1100,Yes,summer,mountains,Negtive,Duroflex
+55,22,4.9,male,4.9,1500,Yes,spring,plains,Positive,Pepperfry
+14,3,1.5,female,2,1200,Yes,summer,mountains,Positive,Godrej Interio
+24,9,4,female,4.7,1600,Yes,winter,plains,Positive,Urban Ladder
+36,13,4,male,4.7,1300,Yes,summer,coastal,Positive,Khadi Essentials
+43,19,4.9,male,4.9,1200,Yes,summer,plains,Positive,Forest Essentials
+7,4,1,male,1.6,800,No,summer,coastal,Negtive,Kama Ayurveda
+23,12,4,female,4.1,900,Yes,winter,plains,Positive,Sugar Cosmetics
+12,5,1.5,male,2,1400,Yes,summer,mountains,Negtive,Lakme Ayurveda
+50,24,4.9,female,4.9,1300,Yes,spring,coastal,Positive,Biovea
+11,3,1.5,male,2,700,No,summer,plains,Negtive,Patanjali Ayurved (Health Care)
+29,10,4,female,4.4,1800,Yes,summer,coastal,Positive,Dabur Chyawanprash
+30,5,4.2,male,4.5,2500,No,winter,plains,Positive,Flying Machine
+10,2,3.9,female,3.8,100,No,summer,mountains,Negtive,Sugar Cosmetics
+15,8,4.8,male,4.7,600,No,winter,plains,Positive,Khadi Essentials
+5,0,4.5,male,4.2,200,No,monsoon,coastal,Positive,Dettol
+40,15,4.6,female,4.9,900,Yes,winter,mountains,Positive,Lakme Ayurveda
+20,3,3.2,male,3.4,170,No,spring,plains,Negtive,Manyavar Mohey
+8,1,2.5,male,2.3,400,No,summer,plains,Negtive,Lee
+12,6,4,female,4,750,No,monsoon,mountains,Positive,Wildcraft
+35,18,4.9,male,4.8,700,No,winter,plains,Positive,Pepe Jeans London
+45,12,4.7,female,4.6,300,Yes,summer,mountains,Positive,Puma
+25,5,3.8,female,3.7,500,Yes,monsoon,plains,Negtive,Allen Solly Woman
+3,0,4.3,female,4.4,1000,No,winter,mountains,Positive,Head Hunters
+18,10,4.6,male,4.7,800,No,summer,coastal,Positive,Levis Strauss & Co.
+7,2,3.7,male,3.5,300,No,spring,plains,Negtive,Himalaya Liv.52
+22,7,4.5,female,4.3,1000,No,winter,mountains,Positive,Urban Ladder
+50,20,4.5,male,4.7,900,No,winter,mountains,Positive,Wakefit
+13,4,3.4,male,3.3,600,No,summer,coastal,Negtive,Wild Stone
+6,0,3,female,2.8,200,No,monsoon,plains,Negtive,Whisper
+28,9,4.1,female,4,800,No,winter,mountains,Positive,Fastrack
+16,3,4.8,male,4.9,500,No,spring,plains,Positive,Max
+9,2,3.3,male,3.1,300,Yes,winter,mountains,Negtive,Libram
+33,14,4.4,female,4.6,700,No,summer,plains,Positive,Patanjali Ayurved (Health Care)
+11,1,4,female,3.9,800,No,monsoon,mountains,Positive,Dettol
+2,0,2.5,male,2.4,100,No,spring,coastal,Negtive,Streax
+18,6,3.8,male,3.6,1000,No,summer,plains,Positive,Patanjali Ayurved (Health Care)
+5,1,4.2,female,4.3,700,No,winter,mountains,Positive,Moov
+23,7,4.6,male,4.7,800,No,summer,plains,Positive,Levis Strauss & Co.
+7,0,3.5,male,3.4,100,No,monsoon,coastal,Negtive,Streax
+12,3,3.9,female,3.7,600,No,spring,plains,Positive,Lakme Ayurveda
+30,12,4.5,male,4.8,1000,No,winter,mountains,Positive,Kama Ayurveda
+40,18,4.7,female,4.6,700,No,summer,plains,Positive,Max
+8,2,3,male,2.8,400,No,summer,coastal,Negtive,Pepe Jeans London
+15,5,3.6,female,3.5,500,Yes,winter,mountains,Positive,Manyavar Mohey
+25,10,4.3,male,4.5,600,No,monsoon,plains,Positive,Dettol
+35,15,4.9,male,4.8,700,Yes,summer,mountains,Positive,Khadi Essentials
+9,2,2.5,female,2.3,300,No,spring,plains,Negtive,Libram
+20,4,4,female,3.9,800,No,summer,mountains,Positive,Wakefit
+13,3,4.6,male,4.7,750,No,winter,plains,Positive,Forest Essentials
+6,1,3.3,female,3.2,200,No,spring,coastal,Negtive,Johnson & Johnson
+32,11,4.8,male,4.9,900,No,winter,mountains,Positive,Lee
+10,0,3.7,female,3.5,100,No,monsoon,plains,Negtive,Lijoba
+28,8,4.1,male,4,800,No,winter,plains,Positive,Pepperfry
+4,0,2.8,male,2.6,100,No,summer,coastal,Negtive,Whisper
+17,4,4.2,female,4.4,500,No,spring,mountains,Positive,Dettol
+21,9,4.5,female,4.6,600,No,winter,plains,Positive,Amazonbasics
+37,14,4.9,male,4.8,700,Yes,summer,mountains,Positive,Pepe Jeans London
+14,5,3.9,female,3.8,700,No,monsoon,coastal,Negtive,Flying Machine
+19,7,4.3,male,4.4,700,No,summer,mountains,Positive,Patanjali Ayurved (Health Care)
+6,1,3.5,female,3.4,200,No,spring,plains,Negtive,Johnson & Johnson
+31,13,4.7,male,4.6,800,No,winter,plains,Positive,Flying Machine
+8,3,3.2,male,3.1,100,No,summer,coastal,Negtive,Streax
+14,4,4,female,4.1,600,No,monsoon,plains,Positive,Manyavar Mohey
+24,11,4.6,male,4.7,1000,No,winter,mountains,Positive,Kama Ayurveda
+41,17,4.8,female,4.9,700,No,summer,plains,Positive,Lee
+9,2,2.8,male,2.6,100,No,spring,coastal,Negtive,Head Hunters
+16,6,3.8,female,3.9,500,No,winter,mountains,Positive,Moov
+26,9,4.4,male,4.5,600,No,summer,plains,Positive,Max
+36,14,4.9,male,4.8,700,Yes,winter,mountains,Positive,Patanjali Ayurved (Health Care)
+11,1,3,female,2.9,200,No,spring,coastal,Negtive,Streax
+19,5,4.1,female,4.2,700,No,monsoon,plains,Positive,Flying Machine
+33,12,4.7,male,4.6,800,No,summer,mountains,Positive,Khadi Essentials
+7,1,3.3,female,3.1,100,No,summer,coastal,Negtive,Johnson & Johnson
+22,8,4.5,male,4.4,800,No,winter,plains,Positive,Levis Strauss & Co.
+12,0,3.2,female,3,200,No,monsoon,coastal,Negtive,Stayfree
+29,10,4.5,female,4.7,900,No,winter,mountains,Positive,Kama Ayurveda
+39,16,4.9,male,4.8,700,Yes,summer,plains,Positive,Lee
+10,3,3.5,male,3.4,300,No,spring,plains,Negtive,Wildcraft
+20,6,4,female,4.1,600,No,monsoon,plains,Positive,Flying Machine
+34,13,4.8,male,4.9,800,No,summer,mountains,Positive,Khadi Essentials
+8,1,3.1,female,3,200,No,spring,coastal,Negtive,Johnson & Johnson
+17,7,4.4,male,4.6,800,No,winter,plains,Positive,Pepe Jeans London
+13,0,3,female,2.8,200,No,monsoon,coastal,Negtive,Stayfree
+23,8,4.6,male,4.5,800,No,summer,mountains,Positive,Kama Ayurveda
+9,2,3.2,female,3.1,200,No,spring,coastal,Negtive,Stayfree
+32,14,4.8,male,4.9,800,No,summer,mountains,Positive,Khadi Essentials
+10,1,3.5,male,3.4,300,No,spring,plains,Negtive,Wildcraft
+21,7,4.2,female,4.3,600,No,monsoon,plains,Positive,Lakme Ayurveda
+35,12,4.6,male,4.7,900,No,winter,plains,Positive,Levis Strauss & Co.
+42,18,4.9,female,4.8,700,Yes,summer,plains,Positive,Puma
+11,2,3.1,male,3,200,No,spring,coastal,Negtive,Stayfree
+18,6,4,female,4.1,600,No,monsoon,plains,Positive,Lakme Ayurveda
+24,9,4.5,male,4.4,700,No,summer,plains,Positive,Max
+37,15,4.9,male,4.8,800,No,winter,plains,Positive,Lee
+12,1,3,female,2.9,200,No,spring,coastal,Negtive,Stayfree
+22,8,4.3,female,4.4,600,No,monsoon,plains,Positive,Lakme Ayurveda
+36,13,4.7,male,4.6,800,No,summer,mountains,Positive,Khadi Essentials
+8,2,3,male,2.8,100,No,spring,coastal,Negtive,Head Hunters
+15,5,3.8,female,3.9,500,No,winter,plains,Positive,Lakme Ayurveda
+29,11,4.5,male,4.6,900,No,summer,plains,Positive,Levis Strauss & Co.
+41,17,4.9,female,4.8,700,Yes,summer,plains,Positive,Puma
+10,2,3.3,male,3.2,300,No,spring,plains,Negtive,Wildcraft
+19,7,4.1,female,4.2,600,No,monsoon,plains,Positive,Lakme Ayurveda
+33,14,4.7,male,4.6,800,No,summer,mountains,Positive,Khadi Essentials
+7,1,3.2,female,3.1,200,No,summer,coastal,Negtive,Johnson & Johnson
+16,6,3.9,female,4,500,No,winter,plains,Positive,Lakme Ayurveda
+30,12,4.6,male,4.7,900,No,summer,plains,Positive,Levis Strauss & Co.
+43,19,5,female,4.9,800,Yes,summer,plains,Positive,Lee
+11,3,3.4,male,3.3,400,No,spring,plains,Negtive,Wildcraft
+20,8,4.2,female,4.3,600,No,monsoon,plains,Positive,Lakme Ayurveda
+34,15,4.8,male,4.7,800,No,summer,mountains,Positive,Khadi Essentials
+9,1,3,female,2.9,200,No,spring,coastal,Negtive,Stayfree
+17,7,4,female,4.1,500,No,winter,plains,Positive,Lakme Ayurveda
+31,13,4.7,male,4.8,900,No,summer,plains,Positive,Levis Strauss & Co.
+44,20,5,female,4.9,700,Yes,summer,plains,Positive,Puma
+12,2,3.1,male,3,300,No,spring,plains,Negtive,Wildcraft
+21,8,4.3,female,4.4,600,No,monsoon,plains,Positive,Lakme Ayurveda
+35,14,4.7,male,4.6,800,No,summer,mountains,Positive,Khadi Essentials
+10,3,3.2,female,3.1,200,No,spring,coastal,Negtive,Stayfree
+18,7,3.9,female,4,500,No,winter,plains,Positive,Lakme Ayurveda
+32,12,4.6,male,4.7,900,No,summer,plains,Positive,Levis Strauss & Co.
+45,21,5,female,4.9,800,Yes,summer,plains,Positive,Lee
+11,4,3.3,male,3.2,400,No,spring,plains,Negtive,Wildcraft
+22,9,4.4,female,4.5,600,No,monsoon,plains,Positive,Lakme Ayurveda
+36,15,4.8,male,4.7,800,No,summer,mountains,Positive,Khadi Essentials
+13,1,3.1,female,3,300,No,spring,coastal,Negtive,Stayfree
+19,8,4.2,female,4.3,600,No,monsoon,plains,Positive,Lakme Ayurveda
+33,15,4.7,male,4.6,800,No,summer,mountains,Positive,Khadi Essentials
+14,0,3,female,2.8,200,No,monsoon,coastal,Negtive,Stayfree
+23,9,4.5,male,4.6,800,No,summer,mountains,Positive,Kama Ayurveda
+11,5,3.4,male,3.3,400,No,spring,plains,Negtive,Wildcraft
+34,16,4.8,male,4.7,800,No,summer,mountains,Positive,Khadi Essentials
+12,3,3.2,female,3.1,300,No,spring,coastal,Negtive,Stayfree
+20,9,4.3,female,4.4,600,No,monsoon,plains,Positive,Lakme Ayurveda
+37,16,4.9,male,4.8,800,No,winter,plains,Positive,Lee
+13,2,3.1,female,3,300,No,spring,coastal,Negtive,Stayfree
+24,10,4.4,female,4.5,600,No,monsoon,plains,Positive,Lakme Ayurveda
+38,17,4.9,male,4.8,700,Yes,summer,plains,Positive,Puma
+14,1,3,female,2.9,200,No,monsoon,coastal,Negtive,Stayfree
+25,11,4.5,female,4.6,900,No,summer,plains,Positive,Levis Strauss & Co.
+39,18,4.9,male,4.8,800,No,winter,plains,Positive,Lee
+15,0,3,female,2.8,200,No,monsoon,coastal,Negtive,Stayfree
+26,12,4.6,female,4.7,800,No,summer,mountains,Positive,Khadi Essentials
+40,19,5,female,4.9,700,Yes,summer,plains,Positive,Puma
+16,1,3.1,male,3,300,No,spring,plains,Negtive,Wildcraft
+27,13,4.7,male,4.8,900,No,summer,plains,Positive,Levis Strauss & Co.
+41,20,5,female,4.9,800,Yes,summer,plains,Positive,Lee
+17,2,3.2,male,3.1,400,No,spring,plains,Negtive,Wildcraft
+28,14,4.8,male,4.7,800,No,summer,mountains,Positive,Khadi Essentials
+42,21,5,female,4.9,700,Yes,summer,plains,Positive,Puma
+18,3,3.3,male,3.2,400,No,spring,plains,Negtive,Wildcraft
+29,15,4.9,male,4.8,800,No,winter,plains,Positive,Lee
+43,22,5,female,4.9,800,Yes,summer,plains,Positive,Lee
+19,4,3.4,male,3.3,400,No,spring,plains,Positive,Wildcraft
+30,16,4.9,male,4.8,800,No,summer,plains,Positive,Lee
+44,23,5,female,4.9,700,Yes,summer,plains,Positive,Puma
+20,5,3.5,male,3.4,400,No,spring,plains,Positive,Wildcraft
+31,17,5,male,4.9,800,No,summer,plains,Positive,Lee
+32,8,4.3,male,4.6,430,No,summer,plains,Positive,Head Hunters
+17,5,3.8,female,3.9,600,Yes,winter,mountains,Positive,Manyavar Mohey
+6,2,4.5,female,4.2,700,No,monsoon,coastal,Negtive,Wildcraft
+41,12,4.9,male,4.8,900,No,winter,plains,Positive,Pepperfry
+23,6,4.1,female,3.7,700,Yes,summer,mountains,Positive,U.S. Polo Assn. Women
+8,3,4,female,4,800,No,monsoon,plains,Negtive,Libram
+47,15,4.7,male,4.9,500,Yes,winter,coastal,Positive,Khadi Essentials
+12,4,3.5,female,3.2,400,No,spring,plains,Negtive,Johnson & Johnson
+38,11,4.6,male,4.7,1000,No,winter,mountains,Positive,Dettol
+5,1,2.9,female,3.5,300,No,summer,coastal,Negtive,Allen Solly Woman
+29,9,4.4,male,4.5,600,No,winter,mountains,Positive,Lee
+11,3,3.7,male,3.8,200,Yes,spring,plains,Positive,Lakme Ayurveda
+44,18,4.8,male,4.9,700,Yes,winter,coastal,Positive,Lee Cooper
+9,2,3,female,3.1,900,Yes,spring,plains,Negtive,Baidyanath
+36,10,4.2,male,4.3,2000,Yes,summer,plains,Positive,Puma
+20,7,4,female,4.4,10000,No,winter,plains,Positive,Pepe Jeans London
+3,0,2.5,male,2,100,Yes,summer,mountains,Negtive,Lijoba
+27,8,4.7,female,4.6,900,No,winter,mountains,Positive,Manyavar Mohey
+14,5,3.6,female,3.6,700,No,summer,plains,Positive,Flying Machine
+49,19,4.9,male,4.8,1000,Yes,winter,plains,Positive,Patanjali Ayurved (Health Care)
+21,6,4.3,male,4,300,No,spring,plains,Positive,Wildcraft
+33,10,4.5,female,4.7,3000,Yes,summer,plains,Positive,Kama Ayurveda
+7,2,3.2,male,3,100,Yes,summer,coastal,Negtive,Streax
+40,13,4.8,female,4.7,800,Yes,winter,coastal,Positive,Sleepycat
+16,4,3.9,male,3.5,800,Yes,spring,mountains,Positive,The Moms Co.
+25,7,3.5,female,3.6,600,No,summer,coastal,Negtive,Lee Cooper
+48,16,4.6,male,4.7,500,Yes,summer,plains,Positive,Puma
+8,3,3,female,3.2,500,No,spring,plains,Negtive,Manyavar Mohey
+36,12,4.9,male,4.8,800,Yes,winter,plains,Positive,Flying Machine
+19,5,3.3,female,3.4,100,No,summer,mountains,Negtive,Johnson & Johnson
+29,9,4.7,female,4.5,700,Yes,winter,plains,Positive,Pepe Jeans London
+12,4,2.8,female,3,200,Yes,monsoon,coastal,Negtive,U.S. Polo Assn. Women
+45,14,4.7,male,4.9,600,No,summer,plains,Positive,Sugar Cosmetics
+6,2,2.5,female,2.6,400,Yes,monsoon,mountains,Negtive,Dove Hair
+31,11,4.4,male,4.3,400,No,summer,coastal,Positive,Pepperfry
+14,3,3.2,female,3,100,Yes,summer,plains,Negtive,Lijoba
+39,10,4.3,male,4.5,2000,No,summer,mountains,Positive,Libram
+22,8,4.1,male,4.2,800,No,summer,mountains,Positive,Wildcraft
+4,1,2,female,2.1,200,Yes,winter,mountains,Negtive,Streax
+47,15,4.8,female,4.7,1000,Yes,winter,mountains,Positive,Head Hunters
+11,3,3,male,3.1,900,No,monsoon,plains,Negtive,Sleepycat
+37,13,4.5,male,4.4,500,No,summer,plains,Positive,Kama Ayurveda
+17,6,3.8,female,3.7,10000,No,spring,mountains,Positive,Lee Cooper
+42,17,4.9,male,4.8,300,No,summer,plains,Positive,Manyavar Mohey
+9,2,2.8,male,3,600,Yes,spring,plains,Negtive,Patanjali Ayurved (Health Care)
+35,12,4.6,female,4.8,900,Yes,summer,coastal,Positive,Pepe Jeans London
+24,8,3.9,female,3.5,300,No,winter,coastal,Positive,Wildcraft
+3,0,1.5,male,1.8,200,Yes,monsoon,coastal,Negtive,Sugar Cosmetics
+46,18,4.7,female,4.9,400,No,winter,plains,Positive,Khadi Essentials
+16,5,3.7,male,3.6,800,No,summer,mountains,Positive,Flying Machine
+28,10,4.3,male,4.4,400,Yes,summer,mountains,Positive,Patanjali Ayurved (Health Care)
+13,4,2.7,female,3,600,No,spring,plains,Negtive,Manyavar Mohey
+47,14,4.8,male,4.9,500,Yes,winter,plains,Positive,Wildcraft
+6,2,2.3,male,2.4,300,Yes,summer,coastal,Negtive,Head Hunters
+30,11,4.5,female,4.6,300,No,winter,mountains,Positive,Kama Ayurveda
+14,5,3,male,3.5,10000,No,spring,mountains,Positive,Amazonbasics
+41,13,4.7,female,4.6,500,Yes,winter,coastal,Positive,Flying Machine
+9,3,2.5,male,2.6,400,Yes,monsoon,plains,Negtive,Flying Machine
+34,12,4.6,male,4.7,800,Yes,summer,plains,Positive,Pepe Jeans London
+18,7,3.6,female,3.8,1000,Yes,winter,plains,Positive,Manyavar Mohey
+50,20,5,male,5,900,No,summer,plains,Positive,Dettol
+11,4,3.1,female,3.2,600,Yes,monsoon,mountains,Negtive,Khadi Essentials
+38,14,4.9,female,4.8,900,Yes,summer,coastal,Positive,Pepperfry
+23,9,4.4,male,4.5,800,No,winter,mountains,Positive,Flying Machine
+8,2,2.2,female,2.3,400,No,summer,coastal,Negtive,Manyavar Mohey
+35,11,4.7,male,4.8,600,Yes,summer,plains,Positive,Johnson & Johnson
+15,6,3.5,female,3.7,700,No,winter,mountains,Positive,Pepe Jeans London
+42,15,4.8,female,4.9,700,No,summer,mountains,Positive,Wildcraft
+7,1,2,male,2.1,200,Yes,summer,plains,Negtive,Kama Ayurveda
+31,13,4.5,female,4.6,800,Yes,summer,coastal,Positive,Libram
+20,8,3.7,male,3.8,1000,Yes,spring,plains,Positive,Sleepycat
+49,19,4.9,male,4.7,500,No,winter,plains,Positive,Patanjali Ayurved (Health Care)
+10,3,2.9,female,3,400,No,monsoon,mountains,Negtive,Manyavar Mohey
+36,12,4.6,female,4.5,600,No,winter,mountains,Positive,Sugar Cosmetics
+24,7,3.8,male,4,700,Yes,summer,coastal,Positive,Lee Cooper
+45,16,4.7,male,4.9,300,Yes,summer,mountains,Positive,Flying Machine
+16,5,3.2,female,3.5,100,Yes,spring,plains,Positive,Lijoba
+29,10,4.4,male,4.3,500,Yes,summer,plains,Positive,Manyavar Mohey
+43,14,4.8,female,4.9,800,No,winter,coastal,Positive,Pepperfry
+21,9,4.1,female,4.3,1000,Yes,summer,mountains,Positive,Patanjali Ayurved (Health Care)
+5,1,1.8,male,2,300,Yes,spring,coastal,Negtive,Kama Ayurveda
+37,13,4.7,female,4.6,600,No,summer,plains,Positive,Johnson & Johnson
+22,8,3.9,male,4.1,900,Yes,winter,mountains,Positive,Sleepycat
+40,15,4.8,female,4.9,500,No,summer,mountains,Positive,Flying Machine
+12,4,3,male,3.2,600,No,summer,plains,Positive,Head Hunters
